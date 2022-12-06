@@ -1,9 +1,9 @@
 # About
 
-- 👋 Hi, I’m @dweeppandya. I currently work as a Data Scientist at <a href="ecolibrium.io" target="_blank">Ecolibrium</a> helping institutes achieve their carbon net-zero goals and leading de-carbonization efforts with data! 🌳
+- 👋 Hi, I’m @dweeppandya. I currently work as a Data Scientist at [Ecolibrium](https://ecolibrium.io/) helping institutes achieve their carbon net-zero goals and leading de-carbonization efforts with data! 🌳
 - Previously I've worked with a leading FinTech to help catch the bad guys from doing bad things, specifically in the Anti-Money Laundering and Fraud Detection domains. 🏦
 - 👀 I’m an explorer, always looking for the next challenge. Coding to me is a stress-buster. 
-- 🌱 I’m currently exploring the vast meadows of data science and decision intelligence. I'm also currently in the process of articulating what I learn through blogs/articles (checkout the <a href="https://dweeppandya.github.io/thisisdweep/" target="_blank">my website</a>)
+- 🌱 I’m currently exploring the vast meadows of data science and decision intelligence. I'm also currently in the process of articulating what I learn through blogs/articles (checkout [my website](https://dweeppandya.github.io/thisisdweep/))
 - 💞️ I'd love to collaborate with you on any project/idea that helps anybody in need. 
 - 📫 Feel free to drop a note here: 
     - Email: [dweep.pandya@gmail.com](mailto:dweep.pandya@gmail.com)
